@@ -10,6 +10,16 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\Juegos\\Doom\\PWads\\Maddy\\OTEX_1.1.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
 		}
 		defaultfloortexture = "NUKAGE1";
 		defaultceiltexture = "CEIL5_2";
@@ -28,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -390.7455f;
-		viewpositiony = 1330.397f;
-		viewscale = 1.428014f;
+		viewpositionx = 4123.594f;
+		viewpositiony = 4214.112f;
+		viewscale = 1.352534f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
